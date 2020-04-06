@@ -1,2 +1,4 @@
-print('Hello World')
-print('this is test')
+podaj_imie = input("Podaj swoje imie")
+
+
+
